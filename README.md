@@ -1,4 +1,3 @@
-![logo](https://github.com/Aman2256/Aman2256/blob/main/binary.png)
 <h1 align="center">Hi 👋, I'm Aman Tiwari</h1>
 <h3 align="center">A Passionate Front-end Developer from India</h3>
 
