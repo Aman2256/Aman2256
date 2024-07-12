@@ -1,25 +1,8 @@
-## Hi there 👋
 
-<!--
-**Aman2256/Aman2256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Aman Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Front-end Developer from India</h3>
 
-<img align="right" alt="coding" width="50" height="50" src="![boyy](https://github.com/user-attachments/assets/e6d27319-cd31-4e84-91b9-a9c4a77c85da)
-
-">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b9520eg46a91ma4365q8v34guhnixdk9mhq7kynz8t0k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2256&label=Profile%20views&color=0e75b6&style=flat" alt="aman2256" /> </p>
 
